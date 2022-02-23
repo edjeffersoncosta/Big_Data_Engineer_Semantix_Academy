@@ -4,9 +4,9 @@ Seja bem vindo(a) ao treinamento de Big Data Engineer no Semantix Academy,
 Trilha de Estudo:
 
 ## Big Data Foundations (Semana 1, 2 e 3)
-Conhecimento de ferramentas atuais no mercado de Big Data;
-Criação e funcionamento de um cluster Hadoop para Big Data em Docker;
-Manipulação de dados com HDFS;  
+*Conhecimento de ferramentas atuais no mercado de Big Data;
+*Criação e funcionamento de um cluster Hadoop para Big Data em Docker;
+* Manipulação de dados com HDFS;  
 Manipulação de dados com uso do Hive;
 Otimização de consultas em grandes volumes de dados estruturados e semiestruturados com uso de Hive;
 Ingestão de dados relacionais para o HDFS/Hive, com uso do Sqoop;
