@@ -73,4 +73,4 @@ vTrabalhando com Kafka Connect;
 * Criações de User defined Function;
 * Configurações de Tunning para o Spark Application.
 
-# Muito Obrigado Prof Rodrigo Augusto Rebouças 
+# Muito Obrigado Prof Rodrigo Augusto Rebouças e Semantix Academy
